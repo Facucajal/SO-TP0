@@ -1,0 +1,14 @@
+[INFO] 17:53:11:180 Servidor/(7208:7208): Servidor listo para recibir al cliente
+[INFO] 18:44:56:917 Servidor/(11663:11663): Servidor listo para recibir al cliente
+[INFO] 18:58:50:345 Servidor/(11336:11336): Servidor listo para recibir al cliente
+[INFO] 00:31:56:154 Servidor/(7476:7476): Servidor listo para recibir al cliente
+[INFO] 10:15:48:591 Servidor/(8636:8636): Servidor listo para recibir al cliente
+[INFO] 10:18:12:467 Servidor/(8927:8927): Servidor listo para recibir al cliente
+[INFO] 11:22:30:647 Servidor/(13298:13298): Servidor listo para recibir al cliente
+[INFO] 11:28:01:840 Servidor/(13338:13338): Servidor listo para recibir al cliente
+[INFO] 11:37:20:239 Servidor/(8636:8636): Se conecto un cliente!
+[INFO] 11:38:16:579 Servidor/(8636:8636): Me llego el mensaje valor
+[INFO] 11:38:25:501 Servidor/(8636:8636): Me llegaron los siguientes valores:
+
+[ERROR] 11:38:25:501 Servidor/(8636:8636): el cliente se desconecto. Terminando servidor
+[INFO] 11:52:09:194 Servidor/(15578:15578): Servidor listo para recibir al cliente

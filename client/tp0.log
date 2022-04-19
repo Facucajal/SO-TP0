@@ -1,0 +1,402 @@
+[INFO] 14:01:51:449 TP0/(4933:4933): Hola! Soy un log
+[INFO] 14:29:44:481 TP0/(6465:6465): Hola! Soy un log
+[INFO] 14:39:21:348 TP0/(7008:7008): Hola! Soy un log
+[INFO] 14:39:21:349 TP0/(7008:7008): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:34:05:328 TP0/(12489:12489): Hola! Soy un log
+
+[INFO] 16:34:05:331 TP0/(12489:12489): 2
+[INFO] 16:34:05:332 TP0/(12489:12489): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:34:55:538 TP0/(12558:12558): Hola! Soy un log
+
+[INFO] 16:34:55:539 TP0/(12558:12558): 2
+[INFO] 16:34:55:539 TP0/(12558:12558): 5
+[INFO] 16:34:55:539 TP0/(12558:12558): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:39:19:273 TP0/(12802:12802): Hola! Soy un log
+
+[INFO] 16:39:19:274 TP0/(12802:12802): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:47:06:149 TP0/(13171:13171): Hola! Soy un log
+
+[INFO] 16:47:06:150 TP0/(13171:13171): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:48:21:533 TP0/(13267:13267): Hola! Soy un log
+
+[INFO] 16:48:21:535 TP0/(13267:13267): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:48:28:042 TP0/(13267:13267): Se leyo pepe
+
+[INFO] 16:52:15:751 TP0/(13501:13501): Hola! Soy un log
+
+[INFO] 16:52:15:756 TP0/(13501:13501): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:52:36:838 TP0/(13551:13551): Hola! Soy un log
+
+[INFO] 16:52:36:840 TP0/(13551:13551): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:52:42:719 TP0/(13551:13551): Se leyo hola
+
+[INFO] 16:53:47:098 TP0/(13643:13643): Hola! Soy un log
+
+[INFO] 16:53:47:098 TP0/(13643:13643): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:53:53:453 TP0/(13643:13643): Se leyo la cosa
+
+[INFO] 16:54:40:175 TP0/(13714:13714): Hola! Soy un log
+
+[INFO] 16:54:40:176 TP0/(13714:13714): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:54:44:470 TP0/(13714:13714): Se leyo mama
+
+[INFO] 16:55:22:058 TP0/(13787:13787): Hola! Soy un log
+
+[INFO] 16:55:22:059 TP0/(13787:13787): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:55:25:288 TP0/(13787:13787): Se leyo lala
+
+[INFO] 16:56:04:648 TP0/(13859:13859): Hola! Soy un log
+
+[INFO] 16:56:04:649 TP0/(13859:13859): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:56:07:611 TP0/(13859:13859): Se leyo mama
+
+[INFO] 16:56:10:306 TP0/(13859:13859): Se leyo papa
+
+[INFO] 16:56:12:562 TP0/(13859:13859): Se leyo pepe
+
+[INFO] 16:56:14:477 TP0/(13859:13859): Se leyo salir
+
+[INFO] 16:56:58:275 TP0/(13903:13903): Hola! Soy un log
+
+[INFO] 16:56:58:276 TP0/(13903:13903): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 16:57:00:767 TP0/(13903:13903): Se leyo pepe
+
+[INFO] 16:57:02:486 TP0/(13903:13903): Se leyo lolo
+
+[INFO] 16:57:05:596 TP0/(13903:13903): Se leyo jeje
+
+[INFO] 16:57:09:909 TP0/(13903:13903): Se leyo man read
+
+[INFO] 16:57:23:295 TP0/(13903:13903): Se leyo man readline
+
+[INFO] 17:00:42:997 TP0/(14106:14106): Hola! Soy un log
+
+[INFO] 17:00:42:998 TP0/(14106:14106): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 17:00:44:204 TP0/(14106:14106): Se leyo 45
+
+[INFO] 17:00:45:338 TP0/(14106:14106): Se leyo 33
+
+[INFO] 17:00:47:135 TP0/(14106:14106): Se leyo 65
+
+[INFO] 17:00:48:117 TP0/(14106:14106): Se leyo 
+
+[INFO] 17:02:37:343 TP0/(14246:14246): Hola! Soy un log
+
+[INFO] 17:02:37:350 TP0/(14246:14246): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 17:02:40:443 TP0/(14246:14246): Se leyo lolo
+
+[INFO] 17:08:11:221 TP0/(14630:14630): Hola! Soy un log
+
+[INFO] 17:08:11:223 TP0/(14630:14630): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 17:08:14:296 TP0/(14630:14630): Se leyo papa
+
+[INFO] 17:08:16:202 TP0/(14630:14630): Se leyo mama
+
+[INFO] 17:08:17:533 TP0/(14630:14630): Se leyo lele
+
+[INFO] 17:08:18:508 TP0/(14630:14630): Se leyo 
+
+[INFO] 17:09:08:423 TP0/(14707:14707): Hola! Soy un log
+
+[INFO] 17:09:08:424 TP0/(14707:14707): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 17:09:11:884 TP0/(14707:14707): Se leyo pepe
+
+[INFO] 17:09:16:802 TP0/(14707:14707): Se leyo keke
+
+[INFO] 17:09:19:728 TP0/(14707:14707): Se leyo papa
+
+[INFO] 17:09:20:765 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:22:024 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:22:837 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:23:195 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:24:149 TP0/(14707:14707): Se leyo sa
+
+[INFO] 17:09:25:109 TP0/(14707:14707): Se leyo sa
+
+[INFO] 17:09:25:671 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:25:937 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:26:180 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:26:597 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:26:982 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:27:389 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:27:730 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:28:057 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:28:491 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:28:846 TP0/(14707:14707): Se leyo 
+
+[INFO] 17:09:30:882 TP0/(14707:14707): Se leyo salr
+
+[INFO] 17:14:12:063 TP0/(14982:14982): Hola! Soy un log
+
+[INFO] 17:14:12:064 TP0/(14982:14982): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 17:14:15:977 TP0/(14982:14982): Se leyo sasa
+
+[INFO] 17:14:18:117 TP0/(14982:14982): Se leyo lolo
+
+[INFO] 17:14:21:071 TP0/(14982:14982): Se leyo lili
+
+[INFO] 17:14:23:784 TP0/(14982:14982): Se leyo po lo li
+
+[INFO] 17:14:55:512 TP0/(15054:15054): Hola! Soy un log
+
+[INFO] 17:14:55:517 TP0/(15054:15054): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 17:14:57:257 TP0/(15054:15054): Se leyo ll
+
+[INFO] 17:14:58:486 TP0/(15054:15054): Se leyo pp
+
+[INFO] 17:14:59:673 TP0/(15054:15054): Se leyo ññ
+
+[INFO] 17:15:01:456 TP0/(15054:15054): Se leyo jj
+
+[INFO] 17:15:33:063 TP0/(15137:15137): Hola! Soy un log
+
+[INFO] 17:15:33:065 TP0/(15137:15137): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 17:15:35:322 TP0/(15137:15137): Se leyo ll
+
+[INFO] 19:45:46:911 TP0/(21668:21668): Hola! Soy un log
+
+[INFO] 19:45:46:915 TP0/(21668:21668): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 19:46:29:600 TP0/(21747:21747): Hola! Soy un log
+
+[INFO] 19:46:29:600 TP0/(21747:21747): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:10:01:330 TP0/(8219:8219): Hola! Soy un log
+
+[INFO] 18:10:24:613 TP0/(8219:8219): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:10:53:404 TP0/(8638:8638): Hola! Soy un log
+
+[INFO] 18:10:58:677 TP0/(8638:8638): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:12:51:095 TP0/(8744:8744): Hola! Soy un log
+
+[INFO] 18:13:07:655 TP0/(8744:8744): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:16:28:196 TP0/(9151:9151): Hola! Soy un log
+
+[INFO] 18:16:50:370 TP0/(9151:9151): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:17:58:093 TP0/(9351:9351): Hola! Soy un log
+
+[INFO] 18:18:01:473 TP0/(9351:9351): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:18:58:190 TP0/(9440:9440): Hola! Soy un log
+
+[INFO] 18:19:03:414 TP0/(9440:9440): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:21:18:672 TP0/(9760:9760): Hola! Soy un log
+
+[INFO] 18:21:18:675 TP0/(9760:9760): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:27:38:233 TP0/(10247:10247): Hola! Soy un log
+
+[INFO] 18:27:38:237 TP0/(10247:10247): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:27:45:497 TP0/(10247:10247): Se leyo ll
+
+[INFO] 18:28:38:233 TP0/(10332:10332): Hola! Soy un log
+
+[INFO] 18:28:38:235 TP0/(10332:10332): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:28:43:968 TP0/(10332:10332): Se leyo lolo
+
+[INFO] 18:45:09:165 TP0/(11690:11690): Hola! Soy un log
+
+[INFO] 18:45:09:174 TP0/(11690:11690): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:45:13:647 TP0/(11690:11690): Se leyo pepe
+
+[INFO] 18:48:27:429 TP0/(11931:11931): Hola! Soy un log
+
+[INFO] 18:48:27:430 TP0/(11931:11931): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:59:30:009 TP0/(12732:12732): Hola! Soy un log
+
+[INFO] 18:59:30:009 TP0/(12732:12732): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 18:59:51:394 TP0/(12777:12777): Hola! Soy un log
+
+[INFO] 18:59:58:791 TP0/(12777:12777): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 19:00:58:989 TP0/(12885:12885): Hola! Soy un log
+
+[INFO] 19:00:58:990 TP0/(12885:12885): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 19:01:29:737 TP0/(12936:12936): Hola! Soy un log
+
+[INFO] 19:02:06:919 TP0/(12936:12936): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 00:05:10:184 TP0/(5628:5628): Hola! Soy un log
+
+[INFO] 00:05:10:201 TP0/(5628:5628): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 00:05:15:603 TP0/(5628:5628): Se leyo lo+
+
+[INFO] 00:05:53:195 TP0/(5712:5712): Hola! Soy un log
+
+[INFO] 00:05:53:196 TP0/(5712:5712): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 00:30:57:014 TP0/(7400:7400): Hola! Soy un log
+
+[INFO] 00:30:57:015 TP0/(7400:7400): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 00:31:12:007 TP0/(7400:7400): Se leyo ll
+
+[INFO] 00:31:15:526 TP0/(7400:7400): Se leyo popo
+
+[INFO] 00:31:17:038 TP0/(7400:7400): Se leyo 
+
+[INFO] 00:31:48:330 TP0/(7453:7453): Hola! Soy un log
+
+[INFO] 00:31:48:331 TP0/(7453:7453): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 09:17:29:685 TP0/(4244:4244): Hola! Soy un log
+
+[INFO] 09:17:50:753 TP0/(4244:4244): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 09:31:01:181 TP0/(5281:5281): Hola! Soy un log
+
+[INFO] 09:31:05:158 TP0/(5281:5281): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 09:42:51:112 TP0/(5881:5881): Hola! Soy un log
+
+[INFO] 09:42:56:136 TP0/(5881:5881): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 09:43:24:628 TP0/(5881:5881): Se leyo 99
+
+[INFO] 09:43:32:614 TP0/(5881:5881): Se leyo 66
+
+[INFO] 09:43:35:195 TP0/(5881:5881): Se leyo 33
+
+[INFO] 09:43:36:838 TP0/(5881:5881): Se leyo 
+
+[INFO] 10:18:28:555 TP0/(8954:8954): Hola! Soy un log
+
+[INFO] 10:18:28:557 TP0/(8954:8954): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 10:18:34:042 TP0/(8954:8954): Se leyo 
+
+[INFO] 10:23:35:317 TP0/(9218:9218): Hola! Soy un log
+
+[INFO] 10:23:59:610 TP0/(9218:9218): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 10:24:16:930 TP0/(9218:9218): Se leyo 
+
+[INFO] 10:25:13:162 TP0/(9373:9373): Hola! Soy un log
+
+[INFO] 10:25:18:937 TP0/(9373:9373): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 10:25:34:235 TP0/(9373:9373): Se leyo 
+
+[INFO] 10:28:51:419 TP0/(9697:9697): Hola! Soy un log
+
+[INFO] 10:28:57:346 TP0/(9697:9697): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 10:43:23:135 TP0/(10735:10735): Hola! Soy un log
+
+[INFO] 10:43:33:335 TP0/(10735:10735): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 10:44:21:671 TP0/(10849:10849): Hola! Soy un log
+
+[INFO] 10:44:23:575 TP0/(10849:10849): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 10:44:37:594 TP0/(10849:10849): Se leyo 
+
+[INFO] 10:49:56:256 TP0/(11318:11318): Hola! Soy un log
+
+[INFO] 10:49:56:260 TP0/(11318:11318): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 10:50:01:218 TP0/(11318:11318): Se leyo 4
+
+[INFO] 10:50:02:083 TP0/(11318:11318): Se leyo 
+
+[INFO] 10:52:57:907 TP0/(11685:11685): Hola! Soy un log
+
+[INFO] 10:52:57:911 TP0/(11685:11685): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 10:53:05:218 TP0/(11685:11685): Se leyo holaaa
+
+[INFO] 10:53:07:060 TP0/(11685:11685): Se leyo 
+
+[INFO] 10:55:29:780 TP0/(11845:11845): Hola! Soy un log
+
+[INFO] 10:55:46:817 TP0/(11845:11845): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 10:56:05:735 TP0/(11845:11845): Se leyo gg
+
+[INFO] 10:56:10:152 TP0/(11845:11845): Se leyo ggg
+
+[INFO] 10:56:14:297 TP0/(11845:11845): Se leyo 
+
+[INFO] 11:00:28:657 TP0/(12180:12180): Hola! Soy un log
+
+[INFO] 11:00:33:419 TP0/(12180:12180): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 11:35:21:466 TP0/(14227:14227): Hola! Soy un log
+
+[INFO] 11:35:28:386 TP0/(14227:14227): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 11:39:41:495 TP0/(14629:14629): Hola! Soy un log
+
+[INFO] 11:39:41:504 TP0/(14629:14629): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 11:40:23:387 TP0/(14691:14691): Hola! Soy un log
+
+[INFO] 11:40:23:391 TP0/(14691:14691): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 11:40:52:067 TP0/(14752:14752): Hola! Soy un log
+
+[INFO] 11:40:52:077 TP0/(14752:14752): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 11:40:59:750 TP0/(14752:14752): Se leyo 5
+
+[INFO] 11:41:01:745 TP0/(14752:14752): Se leyo 6
+
+[INFO] 11:41:02:276 TP0/(14752:14752): Se leyo 
+
+[INFO] 11:41:52:691 TP0/(14954:14954): Hola! Soy un log
+
+[INFO] 11:41:52:695 TP0/(14954:14954): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 11:52:18:210 TP0/(15596:15596): Hola! Soy un log
+
+[INFO] 11:52:18:215 TP0/(15596:15596): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
+[INFO] 12:29:07:752 TP0/(17708:17708): Hola! Soy un log
+
+[INFO] 12:29:18:441 TP0/(17708:17708): Lei la IP 127.0.0.1, puerto 4444, y la clave valor
+
