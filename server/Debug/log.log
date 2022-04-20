@@ -18,3 +18,12 @@
 [INFO] 11:53:12:895 Servidor/(15561:15561): vamoooo
 [INFO] 11:53:12:895 Servidor/(15561:15561): chau(?
 [ERROR] 11:53:12:895 Servidor/(15561:15561): el cliente se desconecto. Terminando servidor
+[INFO] 16:21:48:555 Servidor/(12441:12441): Servidor listo para recibir al cliente
+[INFO] 16:22:00:636 Servidor/(12441:12441): Se conecto un cliente!
+[INFO] 16:22:00:636 Servidor/(12441:12441): Me llego el mensaje valor
+[INFO] 16:22:31:114 Servidor/(12441:12441): Me llegaron los siguientes valores:
+
+[INFO] 16:22:31:115 Servidor/(12441:12441): Que onda pa
+[INFO] 16:22:31:115 Servidor/(12441:12441): Mira como funciona ese server papa
+[INFO] 16:22:31:115 Servidor/(12441:12441): nananana increible
+[ERROR] 16:22:31:115 Servidor/(12441:12441): el cliente se desconecto. Terminando servidor

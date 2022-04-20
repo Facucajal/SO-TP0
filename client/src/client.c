@@ -107,7 +107,8 @@ void paquete(int conexion)
 {
 	// Ahora toca lo divertido!
 	char* leido;
-	t_paquete* paquete = crear_paquete();
+	t_paquete* paquete = crear_super_paquete();
+	//t_paquete* paquete = crear_paquete();
 
 	// Leemos y esta vez agregamos las lineas al paquete
 	leido = readline("> ");
